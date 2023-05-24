@@ -1,0 +1,1 @@
+# sconfig_comstampmasterpuzzlegame
